@@ -1,3 +1,9 @@
+---
+title: My Videos
+layout: default
+nav_order: 2
+---
+
 # My Videos
 
 ## Video 1
