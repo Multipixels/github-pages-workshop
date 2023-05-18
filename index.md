@@ -12,3 +12,5 @@ nav_order: 1
 - Bread
 - Eggs
 - Pasta
+
+[Here](videoCollection) is a link to my video collection.
