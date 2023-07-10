@@ -11,6 +11,6 @@ nav_order: 1
 - ~~Garlic~~
 - Bread
 - Eggs
-- Pasta
+- ~~Pasta~~
 
 [Here](videoCollection) is a link to my video collection.
