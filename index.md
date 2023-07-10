@@ -9,7 +9,7 @@ nav_order: 1
 - ~~Apples~~
 - Lemons
 - ~~Garlic~~
-- Bread
+- ~~Bread~~
 - Eggs
 - ~~Pasta~~
 
